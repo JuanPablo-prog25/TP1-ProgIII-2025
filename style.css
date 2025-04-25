@@ -31,3 +31,13 @@ body{
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+/*Selectores*/
+h1,h2{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+div p{
+    font-size: 16px;
+    color: aqua;
+}
