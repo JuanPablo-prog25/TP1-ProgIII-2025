@@ -9,6 +9,8 @@ body{
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Estilos para navegación */
 nav ul{
     list-style-type:none ;
     padding: 0;
@@ -17,4 +19,19 @@ nav ul{
 nav li{
     display: inline;
     margin-right: 10px;
+}
+/* Estilos para la pagina conocimientos.html */
+div{
+    margin-bottom: 25px;
+}
+div h2{
+    color: rgb(145, 0, 0);
+    margin-top: 15px;
+}
+
+/*Estilo para imagenes*/
+img[src*="logovisual"], img[src*=" github"]{
+    width: 180px;
+    border: 2px solid;
+  
 }
