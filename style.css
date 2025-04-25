@@ -41,3 +41,21 @@ div p{
     font-size: 16px;
     color: aqua;
 }
+
+/* Clases */
+.nombre{
+    color: royalblue;
+    font-weight: bold;
+}
+.carrera{
+    color:green;
+    font-style: italic;
+}
+.titulo{
+    color: red;
+    text-decoration: underline;
+}
+.lenguaje{
+    font-weight: bold;
+    color: rgb(20, 40, 220);
+}
